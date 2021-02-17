@@ -1,0 +1,45 @@
+{
+    "success": true,
+    "result": [
+      {
+        "key": "0",
+        "url": "https://www.sabah.com.tr/gundem/2018/09/05/tskdan-flas-aciklama-hepsi-imha-edildi",
+        "description": "TSK: \\\"Irak kuzeyi Sinath-Haftanin, Zap, Hakurk ve Kandil bölgeleri ile Hakkâri/Yüksekova kırsalına 04 Eylül 2018 tarihinde düzenlenen hava harekâtı neticesinde, bölücü terör örgütü tarafından sığınak/barınak,...Devamı için tıklayınız",
+        "image": "https://iasbh.tmgrup.com.tr/dff773/320/320/0/0/345/345?u=https://isbh.tmgrup.com.tr/sbh/2018/09/05/tskdan-flas-aciklama-hepsi-imha-edildi-1536125229353.jpg",
+        "name": "TSK'dan flaş açıklama: Hepsi imha edildi",
+        "source": "Sabah"
+      },
+      {
+        "key": "1",
+        "url": "http://www.hurriyet.com.tr/gundem/aihm-adaylari-elemeyi-gecti-sirada-mulakat-ve-secim-var-40946681",
+        "description": "AVRUPA İnsan Hakları Mahkemesi’nde (AİHM) görev yapan Işıl Karakaş’ın yerine görev yapmak üzere Türkiye tarafından Avrupa Konseyi’ne bildirilen Prof. Dr. Selami Kuran, Prof. Dr. Necati Polat ve Prof. Dr. Esra Gül Dardağan Kibar elemeyi geçti.",
+        "image": "http://i.hurimg.com/i/hurriyet/75/620x350/5b8f6ea367b0a821cc4b9f36.jpg",
+        "name": "AİHM adayları elemeyi geçti... Sırada mülakat ve seçim var",
+        "source": "Hürriyet"
+      },
+      {
+        "key": "3",
+        "url": "http://www.cumhuriyet.com.tr/haber/saglik/1073629/Dikkat__O_gidalarda_da_sarbon_riski_var.html",
+        "description": "Habertürk yazarı Sevilay Yılman, 'sütte ve dondurmada da şarbon riski var' iddiasını köşesine taşıdı.",
+        "image": "http://www.cumhuriyet.com.tr/thumbs/760x456/Archive/2018/9/5/1073629_1_cover.jpeg?lastModified=1536126922540",
+        "name": "Dikkat! O gıdalarda da şarbon riski var",
+        "source": "Cumhuriyet"
+      },
+      {
+        "key": "0",
+        "url": "https://webrazzi.com/2018/10/03/acele-edin-startup-lounge-icin-son-6-alan/",
+        "description": "Türkiye’nin internet ile teknoloji sektörlerinin buluşacağı Webrazzi Summit ile karşınızda olacağız. 17 Ekim 2018 tarihinde Wyndham Grand İstanbul Levent’te düzenleyeceğimiz Webrazzi Summit 2018‘e ise oldukça kısıtlı bir süre kaldı. Geçtiğimiz Mayıs ayında girişim ve girişimciler için önemli fırsatlar sunan Startup Lounge paketimizin satışa çıktığını sizlere aktarmıştık. Eylül ayında ise sınırlı sayıda yer kaldığını duyurduğumuz Startup Lounge’da…",
+        "image": "https://webrazzi.com/wp-content/uploads/2018/05/startup-lounge-2.jpg",
+        "name": "Acele edin… Startup Lounge için son 6 alan",
+        "source": "Webrazzi"
+      },
+      {
+        "key": "1",
+        "url": "https://webrazzi.com/2018/10/03/insider-yaklasik-200-milyon-dolar-degerleme-ile-sequoia-capitaldan-2-tur-yatirimi-gorusuyor/",
+        "description": "Geçtiğimiz Mart ayında gerçekleştirdiğimiz Webrazzi E-Ticaret 2018 etkinliğimize katılan Insider kurucu ortaklarından Hande Çilingir, hatırlarsanız Insider’ın Sequoia Capital’dan yatırım aldığını paylaşmıştı. Bugün aldığımız duyuma göre Sequoia Capital, Insider’da ikinci tur yatırıma hazırlanıyor. Dünyanın en önemli yatırım şirketlerinden biri olan Sequoia’nın devam yatırımına hazırlanması oldukça önemli. Görünen o ki Insider’daki büyümeden memnun bir yatırım şirketi var. Sequoia Capital‘dan 11 milyon dolar yatırım alan Insider’ın değerlemesi…",
+        "image": "https://webrazzi.com/wp-content/uploads/2018/09/insider-logo.jpg",
+        "name": "Insider yaklaşık 200 milyon dolar değerleme ile Sequoia Capital’dan 2. tur yatırımı görüşüyor",
+        "source": "Webrazzi"
+      }
+    ]
+  }

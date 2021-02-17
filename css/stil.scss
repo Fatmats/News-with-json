@@ -1,0 +1,40 @@
+nav {
+    position: sticky!important;
+    z-index: 99;
+    top: 0;
+}
+.ll h5 span {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    text-align: center;
+}
+.ll p {
+    background: #dc3545;
+    height: 40px;
+    border-radius: 10px;
+    box-shadow: 15px 10px 20px 0px #cec1c1;
+
+    span {
+        margin-top: 5px;
+        text-align: center;
+        color: white;
+    }
+}
+
+.card{
+    border: none!important;
+}
+
+#footer{
+display: block;
+    height: 50px;
+    p{
+        text-align: center!important;
+    }
+}
+a{
+    text-decoration: none;
+    color: white
+}
+
+
